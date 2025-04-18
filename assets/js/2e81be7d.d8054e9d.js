@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkelpencalito_docs=self.webpackChunkelpencalito_docs||[]).push([[6059],{4441:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/elpencalito-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

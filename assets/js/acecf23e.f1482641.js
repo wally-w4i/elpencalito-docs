@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkelpencalito_docs=self.webpackChunkelpencalito_docs||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/elpencalito/blog","blogTitle":"Blog","authorsListPath":"/elpencalito/blog/authors"}')}}]);
