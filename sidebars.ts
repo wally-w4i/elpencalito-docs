@@ -24,6 +24,11 @@ const sidebars: SidebarsConfig = {
     'mvp',
     {
       type: 'category',
+      label: 'Weather',
+      items: ['weather-and-agronomic-indicators/intro'],
+    },
+    {
+      type: 'category',
       label: 'Tutorial',
       items: ['tutorial-basics/create-a-document'],
     },
