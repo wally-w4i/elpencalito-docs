@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkelpencalito_docs=self.webpackChunkelpencalito_docs||[]).push([[9647],{8122:(e,s,c)=>{c.r(s),c.d(s,{default:()=>o});c(6540);var r=c(4164),a=c(1082),l=c(204),n=c(2831),t=c(1410),u=c(4848);function o(e){return(0,u.jsx)(a.e3,{className:(0,r.A)(l.G.wrapper.docsPages),children:(0,u.jsx)(t.A,{children:(0,n.v)(e.route.routes)})})}}}]);

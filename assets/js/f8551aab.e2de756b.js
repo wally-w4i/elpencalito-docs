@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkelpencalito_docs=self.webpackChunkelpencalito_docs||[]).push([[2224],{4575:(e,c,s)=>{s.r(c),s.d(c,{default:()=>n});s(6540);var a=s(1410),l=s(4848);function n(){return(0,l.jsxs)(a.A,{children:[(0,l.jsx)("h1",{children:"My React page"}),(0,l.jsx)("p",{children:"This is a React page"})]})}}}]);
