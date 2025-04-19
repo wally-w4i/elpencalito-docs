@@ -1,0 +1,10 @@
+{
+  "version.label": {
+    "message": "Siguiente",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Weather": {
+    "message": "Clima",
+    "description": "The label for category Weather in sidebar tutorialSidebar"
+  }
+}
