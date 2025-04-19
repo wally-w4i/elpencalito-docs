@@ -19,19 +19,12 @@ const sidebars: SidebarsConfig = {
   // But you can create a sidebar manually
   
   tutorialSidebar: [
-    'intro',
-    'hello',
     'mvp',
     {
       type: 'category',
       label: 'Weather',
       items: ['weather-and-agronomic-indicators/intro'],
-    },
-    {
-      type: 'category',
-      label: 'Tutorial',
-      items: ['tutorial-basics/create-a-document'],
-    },
+    }
   ],
    
 };
