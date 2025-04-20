@@ -3,7 +3,7 @@ sidebar_label: "Introduction"
 sidebar_position: 1
 ---
 
-## 🌤️ Weather and Agronomic Indicators (Integrated with Fields and Plots)
+# 🌤️ Weather and Agronomic Indicators (Integrated with Fields and Plots)
 
 ### 🎯 Goal
 

@@ -6,5 +6,9 @@
   "sidebar.tutorialSidebar.category.Weather": {
     "message": "Clima",
     "description": "The label for category Weather in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Livestock Management": {
+    "message": "Manejo de ganado",
+    "description": "The label for category Livestock Management in sidebar tutorialSidebar"
   }
 }
