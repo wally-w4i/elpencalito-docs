@@ -38,7 +38,9 @@ sidebar_position: 1
 - Integrate with a weather API.
 - Display rainfall, temperature, and forecasts.
 
-### 7. Summary Dashboard
+### 7. Gestión Ganadera
+
+### 8. Summary Dashboard
 
 - Overview of what’s planted and where.
 - Estimate costs per hectare.
